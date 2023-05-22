@@ -1,3 +1,5 @@
+# Even though this bot was recently uploaded to GitHub, it was actually created a considerable time ago. The bot's creation date is May 20, 2022.
+
 AutomaticGmailAliases is a Discord bot that makes it easy to create Gmail aliases for personal use. It utilizes a feature in Gmail (Google) that lets users generate aliases or variations of their Gmail account.
 
 # Here's how it works
